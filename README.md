@@ -1,4 +1,4 @@
-# 🏛️ VIT Library Management & Fine Calculation System
+# 🏛️ Library Management & Fine Calculation System
 
 [![Java](https://img.shields.io/badge/Java-17%2B%20%2F%2026-0284C7?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Database](https://img.shields.io/badge/SQLite-3.42-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
